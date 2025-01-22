@@ -13,7 +13,7 @@ favicon: /img/logo.jpg
 site_title: Future Array
 
 # 页面背景
-background: url(images/home/sunsetbg.jpg)
+background: url(/img/sunsetbg.jpg)
 
 # 主题颜色配置
 theme_color:
