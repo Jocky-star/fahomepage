@@ -13,7 +13,8 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.futurearray.top/
+url: https://jocky-star.github.io/fahomepage
+root: /fahomepage/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -110,3 +111,9 @@ menu:
   产品服务: /products
   联系我们: /contact
   历史文章: /archives
+
+deploy:
+  type: git
+  repo: https://github.com/Jocky-star/fahomepage.git
+  branch: gh-pages    # GitHub Pages 使用的分支
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
