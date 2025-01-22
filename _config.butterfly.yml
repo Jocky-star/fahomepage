@@ -58,4 +58,4 @@ canvas_fluttering_ribbon:
 # 注入设置
 inject:
   head:
-    - <link rel="stylesheet" href="/css/custom.css"> 
+    - <link rel="stylesheet" href="/fahomepage/css/custom.css">
