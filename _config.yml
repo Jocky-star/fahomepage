@@ -101,8 +101,6 @@ theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
 
 menu:
   首页: /

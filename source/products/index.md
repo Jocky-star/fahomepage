@@ -5,7 +5,7 @@ layout: page
 ---
 
 <div class="product-section">
-  <div class="product-item" style="background-image: url('/img/aifate.png')">
+  <div class="product-item" style="background-image: url('../images/home/aifate.png')">
     <div class="product-content">
       <h2>FA Games - 2025天命秘籍</h2>
       <p class="product-desc">AI驱动的个性化新年运势预测系统</p>
@@ -20,7 +20,7 @@ layout: page
     </div>
   </div>
 
-  <div class="product-item" style="background-image: url('/img/aipod.png')">
+  <div class="product-item" style="background-image: url('../images/home/aipod.png')">
     <div class="product-content">
       <h2>FA AIPod</h2>
       <p class="product-desc">AI驱动的双人对话播客生成器</p>
@@ -34,7 +34,7 @@ layout: page
     </div>
   </div>
 
-  <div class="product-item" style="background-image: url('/img/music.png')">
+  <div class="product-item" style="background-image: url('../images/home/music.png')">
     <div class="product-content">
       <h2>FA Music</h2>
       <p class="product-desc">场景化智能音乐定制系统</p>
