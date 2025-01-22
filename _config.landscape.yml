@@ -1,0 +1,32 @@
+# Header
+menu:
+  首页: /
+  欢迎: /welcome
+  关于我们: /about
+  产品服务: /products
+  联系我们: /contact
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+  - category
+  - tag
+  - tagcloud
+  - archive
+  - recent_posts
+
+# Display widgets at top of index pages (false: display only in sidebar)
+widgets_on_small_screens: false
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:

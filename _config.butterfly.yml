@@ -1,0 +1,61 @@
+# 导航菜单配置
+menu:
+  首页: / || fas fa-home
+  关于我们: /about || fas fa-user
+  产品服务: /products || fas fa-cube
+  联系我们: /contact || fas fa-envelope
+  历史发布: /archives || fas fa-archive
+
+# 网站图标
+favicon: /img/logo.jpg
+
+# 网站标题
+site_title: Future Array
+
+# 页面背景
+background: url(/img/sunsetbg.jpg)
+
+# 主题颜色配置
+theme_color:
+  enable: false    # 禁用主题默认颜色
+  main: transparent  # 设置为透明
+
+# 代码高亮主题
+highlight_theme: light
+
+# 社交图标
+social:
+  fab fa-github: https://github.com/yourname || Github
+  fas fa-envelope: futurearray@outlook.com || Email
+
+# 侧边栏设置
+aside:
+  enable: true
+  mobile: true
+  position: right
+  card_author:
+    enable: true
+    description: 
+  card_announcement:
+    enable: true
+    content: Welcome to Future Array!
+  card_recent_post:
+    enable: true
+    limit: 5
+  card_categories:
+    enable: true
+  card_tags:
+    enable: true
+  card_archives:
+    enable: true
+    type: monthly
+
+# 页面效果
+canvas_fluttering_ribbon:
+  enable: true
+  mobile: false
+
+# 注入设置
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/custom.css"> 
