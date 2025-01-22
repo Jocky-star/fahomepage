@@ -1,10 +1,10 @@
 /* 只修改 header 区域的背景为图片 */
 #page-header.full_page {
-  background: url(/img/sunsetbg.jpg) center center / cover no-repeat !important;
+  background: url(../img/sunsetbg.jpg) center center / cover no-repeat !important;
 }
 
 #page-header.not-home-page {
-  background: url(/img/sunsetbg.jpg) center center / cover no-repeat !important;
+  background: url(../img/sunsetbg.jpg) center center / cover no-repeat !important;
 }
 
 /* header 区域的文字样式 */
