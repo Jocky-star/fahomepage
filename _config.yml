@@ -13,7 +13,10 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jocky-star.github.io/fahomepage
+# url: https://jocky-star.github.io/fahomepage
+# url: http://localhost:4000    # 或者你的服务器 IP/域名
+url: http://47.116.171.153:4000    # 替换成你的服务器 IP
+
 root: /fahomepage/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -109,9 +112,10 @@ menu:
   产品服务: /products
   联系我们: /contact
   历史文章: /archives
-
-deploy:
-  type: git
-  repo: https://github.com/Jocky-star/fahomepage.git
-  branch: gh-pages    # GitHub Pages 使用的分支
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+# deploy:
+#   type: local
+# deploy:
+#   type: git
+#   repo: https://github.com/Jocky-star/fahomepage.git
+#   branch: gh-pages    # GitHub Pages 使用的分支
+#   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
