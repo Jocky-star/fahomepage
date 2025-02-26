@@ -1,5 +1,7 @@
 ---
 title: 欢迎来到智序未来
+date: 2025-01-22
+description: 关于我们的简介~  # 这会作为文章的简介
 ---
 
 # Future Array （智序未来）

@@ -59,3 +59,13 @@ canvas_fluttering_ribbon:
 inject:
   head:
     - <link rel="stylesheet" href="/fahomepage/css/custom.css">
+
+# 文章摘要设置
+index_post_content:
+  method: 2  # 1-3
+  length: 200  # 设置较短的摘要长度，比如200字符
+
+# 自动摘要长度
+auto_excerpt:
+  enable: true
+  length: 150  # 设置较短的自动摘要长度
