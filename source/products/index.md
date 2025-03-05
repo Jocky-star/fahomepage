@@ -5,32 +5,19 @@ layout: page
 ---
 
 <div class="product-section">
-  <div class="product-item" style="background-image: url('../img/aifate.webp')">
-    <div class="product-content">
-      <h2>FA Games - 2025天命秘籍</h2>
-      <p class="product-desc">AI驱动的个性化新年运势预测系统</p>
-      <ul class="feature-list">
-        <li><strong>跨年热度</strong>：独特的AI新年预测体验，紧跟跨年热点</li>
-        <li><strong>情绪价值</strong>：打造私人定制化的情感连接</li>
-        <li><strong>玄学创新</strong>：将传统玄学与AI技术完美融合</li>
-        <li><strong>个性定制</strong>：提供affordable且个性化的占卜体验</li>
-        <li><strong>完整生态</strong>：实现从市场到运营的全链路服务</li>
-      </ul>
-      <a href="https://www.2025book.futurearray.top/" class="try-button">立即体验</a>
-    </div>
-  </div>
+
 
   <div class="product-item" style="background-image: url('../img/aipod.webp')">
     <div class="product-content">
       <h2>FA AIPod</h2>
-      <p class="product-desc">AI驱动的双人对话播客生成器</p>
+      <p class="product-desc">AI驱动的播客生成</p>
       <ul class="feature-list">
         <li><strong>轻松对话</strong>：自然流畅的播客对话体验</li>
         <li><strong>灵活定制</strong>：自由调整内容长度和风格</li>
         <li><strong>一键生成</strong>：输入链接或简单描述即可生成个性化内容</li>
         <li><strong>搜索增强</strong>：智能补充相关信息，丰富对话内容</li>
       </ul>
-      <a href="http://47.116.171.153:1030/" class="try-button">生成播客</a>
+      <a href="http://www.aipod.futurearray.top/" class="try-button">生成播客</a>
     </div>
   </div>
 
@@ -40,11 +27,21 @@ layout: page
       <p class="product-desc">场景化智能音乐定制系统</p>
       <ul class="feature-list">
         <li><strong>场景匹配</strong>：根据场景和情绪智能生成音乐</li>
-        <li><strong>数据驱动</strong>：结合可穿戴设备数据，实现精准音乐定制</li>
-        <li><strong>情绪调节</strong>：基于心率、运动等生理数据优化音乐体验</li>
-        <li><strong>智能适配</strong>：自动调整音乐风格与节奏</li>
+        <li><strong>智能适配</strong>：根据时间，位置，用户场景调整音乐风格与节奏</li>
       </ul>
-      <a href="#" class="try-button">开启音乐之旅</a>
+      <a href="https://www.famusic.futurearray.top/" class="try-button">开启音乐之旅</a>
+    </div>
+  </div>
+
+  <div class="product-item" style="background-image: url('../img/aifate.webp')">
+    <div class="product-content">
+      <h2>FA Games - 2025天命秘籍</h2>
+      <p class="product-desc">AI驱动的个性化新年运势预测</p>
+      <ul class="feature-list">
+        <li><strong>情绪价值</strong>：打造私人定制化的情感连接</li>
+        <li><strong>玄学创新</strong>：将传统玄学与AI技术完美融合</li>
+      </ul>
+      <a href="https://www.2025book.futurearray.top/" class="try-button">立即体验</a>
     </div>
   </div>
 </div>
